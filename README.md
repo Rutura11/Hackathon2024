@@ -1,7 +1,7 @@
 Youth Challenges in Rwanda: Data Science Dashboard
 
 Overview
-This interactive dashboard provides a comprehensive view of key challenges faced by the youth in Rwanda. Using data sourced from NISR, National Youth Center (NYC strategic plan 2021-2025) the project combines insights from employment, poverty, education, health, and financial inclusion to drive impactful solutions.
+This interactive dashboard provides a comprehensive view of key challenges faced by the youth in Rwanda. Using data sourced from NISR and National Youth Center (NYC strategic plan 2021-2025) the project combines insights from employment, poverty, education, health, and financial inclusion to drive impactful solutions.
 With this dashboard, policymakers, researchers, and community leaders can explore critical metrics, trends, and visualizations, empowering them to make informed decisions to support Rwanda’s youth.
 
 
