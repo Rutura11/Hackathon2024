@@ -93,7 +93,7 @@ How to Use the Dashboard
     Explore visualizations to identify trends and derive insights.
 
 
-Contributors
+Contributors:
     Marie Ange ISABWE, 
     Patrick UWIRINGIYEMUNGU and 
     Arthur ABIZEYIMANA
