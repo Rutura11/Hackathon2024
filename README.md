@@ -94,8 +94,8 @@ How to Use the Dashboard
 
 
 Contributors
-    Marie Ange ISABWE
-    Patrick UWIRINGIYEMUNGU 
+    Marie Ange ISABWE, 
+    Patrick UWIRINGIYEMUNGU and 
     Arthur ABIZEYIMANA
     
 
